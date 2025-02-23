@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["boot.py", "boot.py"],
-    ["ili9341.py", "ili9341.py"],
-    ["xpt2046.py","xpt2046.py"]
+    ["boot.py", "https://github.com/joeriks/mpy-cyd/boot.py"],
+    ["ili9341.py", "https://github.com/joeriks/mpy-cyd/ili9341.py"],
+    ["xpt2046.py","https://github.com/joeriks/mpy-cyd/xpt2046.py"]
   ],
   "deps": [
   ],
