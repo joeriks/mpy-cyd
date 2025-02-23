@@ -1,0 +1,10 @@
+{
+  "urls": [
+    ["boot.py", "boot.py"],
+    ["ili9341.py", "ili9341.py"],
+    ["xpt2046.py","xpt2046.py"]
+  ],
+  "deps": [
+  ],
+  "version": "0.1"
+}
