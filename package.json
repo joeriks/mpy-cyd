@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["boot.py", "https://github.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/blob/main/boot.py"],
-    ["ili9341.py", "https://github.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/blob/main/ili9341.py"],
-    ["xpt2046.py","https://github.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/blob/main/xpt2046.py"]
+    ["boot.py", "https://raw.githubusercontent.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/refs/heads/main/boot.py"],
+    ["ili9341.py", "https://raw.githubusercontent.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/refs/heads/main/ili9341.py"],
+    ["xpt2046.py","https://raw.githubusercontent.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display/refs/heads/main/xpt2046.py"]
   ],
   "version": "0.1"
 }
